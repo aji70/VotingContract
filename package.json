@@ -1,0 +1,22 @@
+{
+  "name": "votingcontract",
+  "version": "1.0.0",
+  "description": "VotingContract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "aji70"
+  },
+  "keywords": [
+    "INEC"
+  ],
+  "author": "Ajidokwu Sabo",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.18.0"
+  }
+}
