@@ -5,7 +5,7 @@ const {
   const { anyValue } = require("@nomicfoundation/hardhat-chai-matchers/withArgs");
   const { expect } = require("chai");
 
-  describe ("inec", function() {
+  describe ("Inec", function() {
     async function Votersapp() {
     var owner = msg.sender;
     var ownerCount = 0;
@@ -20,7 +20,7 @@ const {
 
     describe("Deployment", function () {
         it("Should increase number of pdp votes", async function(){
-            const{ }
+            const{ _Peter_,  }
         })
     })
 
